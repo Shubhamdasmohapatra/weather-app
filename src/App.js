@@ -1,5 +1,6 @@
 import { useState } from 'react';
 
+//I have hidden some chars in key. So please generate your own api key from https://home.openweathermap.org/api_keys
 
 const api = {
   key: "6134bb58dfa21cd6855660d09f****cd",
